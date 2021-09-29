@@ -17,5 +17,15 @@ This is a long quote
 
 `實作題`
 
--[]todo list
--[]2nd things
+- [ ] todo list
+- [ ] 2nd things
+ 
+ ```python
+ s = "Python syntax highlighting"
+ print s
+ ```
+ 
+```javascript
+var s = "JavaScrip syntax highlighting"
+alert(s);
+```
