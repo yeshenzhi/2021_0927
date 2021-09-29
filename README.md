@@ -19,6 +19,14 @@ This is a long quote
 ---
 `實作題`
 
+1.*asterisks* or *underscores*
+
+2.**asterisks** or **underscores**
+
+3.***asterisks*** or ***underscores***
+
+4.~~asterisks~~
+
 - [ ] todo list
 - [ ] 2nd things
  
