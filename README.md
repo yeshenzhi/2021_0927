@@ -25,8 +25,8 @@ This is a long quote
 
 3.***asterisks*** or ***underscores***
 
-4.~~asterisks~~
-
+4.~~asterisks~~ or ~~underscores~~
+---
 - [ ] todo list
 - [ ] 2nd things
  
@@ -52,8 +52,3 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 ---
-
-
-
-
-
