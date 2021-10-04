@@ -17,7 +17,9 @@ This is a long quote
 ```
 
 ---
+
 `實作題`
+
 Emphasis,aka *italics*,with *asterisks* or *underscores*
 Strong emphasos,aka bold,with **asterisks** or **underscores**
 Combined emphasis with ***asterisks*** and ***underscores***
@@ -26,14 +28,11 @@ Strikethrough uses two tildes.~~Scratch this~~
 ---
 
 1.First ordered ;ist item
-
 2.Another item
   ..* Unordered sub-list
-
 3.Actual numbers don't matter,just that it's a number
   ..1. Ordered sub-list
   ...2.2nd
-
 4.And another item.
   ...* note1
   ...* note2
