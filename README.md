@@ -20,10 +20,10 @@ This is a long quote
 
 `實作題`
 
-Emphasis,aka *italics*,with *asterisks* or *underscores*
-Strong emphasos,aka bold,with **asterisks** or **underscores**
-Combined emphasis with ***asterisks*** and ***underscores***
-Strikethrough uses two tildes.~~Scratch this~~
+Emphasis,aka *italics*,with *asterisks* or *underscores*.
+Strong emphasos,aka bold,with **asterisks** or **underscores**.
+Combined emphasis with ***asterisks*** and ***underscores***.
+Strikethrough uses two tildes.~~Scratch this~~.
 
 ---
 
@@ -39,6 +39,7 @@ Strikethrough uses two tildes.~~Scratch this~~
   ***  note3
 
 ---
+
 - [ ] todo list
 - [ ] 2nd things
  
